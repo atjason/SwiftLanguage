@@ -1,6 +1,4 @@
 
-import Cocoa
-
 ////////////////////////////////////////////////////////////////////////////////
 // Throw and Catch
 
@@ -93,7 +91,6 @@ do {
 // Converting Errors to Optional Values
 
 func someThrowingFuction() throws -> Int {
-    
     return 0
 }
 

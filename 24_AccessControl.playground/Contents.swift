@@ -53,6 +53,7 @@
 //   mark the import declaration with the @testable attribute
 //   and compile that product module with testing enabled.
 
+// @testable import The TestTarget
 
 ////////////////////////////////////////////////////////////////////////////////
 // Custom Types

@@ -51,7 +51,8 @@
 
 // Unit test target can access any internal entity, if 
 //   mark the import declaration with the @testable attribute
-//   and compile that product module with testing enabled.
+//   and compile that product module with testing enabled
+//   in "Build Options -> Enable Testability".
 
 // @testable import The TestTarget
 
